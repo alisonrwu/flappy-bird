@@ -1,6 +1,6 @@
 # flappy-bird
 a flappy bird replica from Brent Aureli's tutorial series
-======
+
 
 TODO:
 ------
